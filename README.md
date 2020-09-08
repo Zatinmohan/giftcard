@@ -1,4 +1,7 @@
-# gift
+# Gift Card UI
+## Resources
+- [Design Link](https://dribbble.com/shots/6862204-Buy-gift-card-from-Phone-IOS-app)
+- [PNG images](https://www.pngguru.com/)
 
 A new Flutter project.
 
