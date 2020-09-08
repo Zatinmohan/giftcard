@@ -7,7 +7,7 @@
 - [PNG images](https://www.pngguru.com/)
 - [Icons](https://pub.dev/packages/font_awesome_flutter)
 
-A new Flutter project.
+A basic (Non-Functioning)Flutter project with UI model
 
 ## Getting Started
 
