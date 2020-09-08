@@ -5,6 +5,7 @@
 ## Resources
 - [Design Link](https://dribbble.com/shots/6862204-Buy-gift-card-from-Phone-IOS-app)
 - [PNG images](https://www.pngguru.com/)
+- [Icons](https://pub.dev/packages/font_awesome_flutter)
 
 A new Flutter project.
 
