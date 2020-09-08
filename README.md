@@ -1,5 +1,6 @@
 # Gift Card UI
 
+## App Screenshots
 <img src = 'https://user-images.githubusercontent.com/37806553/92525944-553c4d00-f242-11ea-81fc-5fdb1f249104.jpg' width = 250 height = 500>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src = 'https://user-images.githubusercontent.com/37806553/92525958-58cfd400-f242-11ea-931a-c13548372543.jpg' width = 250 height = 500>
 ## Resources
 - [Design Link](https://dribbble.com/shots/6862204-Buy-gift-card-from-Phone-IOS-app)
